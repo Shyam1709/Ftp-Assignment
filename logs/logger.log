@@ -1,0 +1,33 @@
+2018-12-31 21:11:38 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:11:54 INFO  FileClient:57 - File Already Exists. Want to OverWrite (Y/N) ?
+2018-12-31 21:13:09 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:13:21 INFO  FileClient:79 - read 21789 bytes.0
+2018-12-31 21:29:05 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:29:22 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:30:04 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:33:42 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:34:25 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:35:01 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:35:21 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:19 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=42896]
+2018-12-31 21:39:27 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:39 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2018-12-31 21:39:52 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:58 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2018-12-31 21:51:03 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=42938,localport=13267]
+2018-12-31 21:51:03 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=42938]
+2018-12-31 21:51:14 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:51:34 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2018-12-31 21:53:34 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:53:59 INFO  FileClient:47 - File not found on Server ...
+2018-12-31 21:54:07 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:54:13 INFO  FileClient:79 - read 9072 bytes.0
+2018-12-31 22:16:58 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=43076,localport=13267]
+2018-12-31 22:16:58 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=43076]
+2018-12-31 22:17:02 INFO  FileServer:63 - 	SEND Command Receiced ...
+2018-12-31 22:17:02 INFO  FileClient:91 - Enter File Name :
+2018-12-31 22:17:20 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2018-12-31 22:20:31 INFO  FileServer:58 - 	GET Command Received ...
+2018-12-31 22:20:31 INFO  FileClient:39 - Enter File Name :
+2018-12-31 22:20:36 INFO  FileServer:99 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2018-12-31 22:20:36 INFO  FileClient:79 - read 9072 bytes.0
